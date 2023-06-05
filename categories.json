@@ -1,26 +1,26 @@
 [
+    {
+    "category": "Geografía",
+    "description": "Preguntas relacionadas con la ubicación, características físicas, políticas y socioeconómicas de los lugares en el mundo."
+  }
   {
-    "category": "Cultura",
-    "description": "Preguntas relacionadas con arte, literatura, música y otras expresiones culturales."
-  },
+    "category": "Tecnología",
+    "description": "Preguntas relacionadas con los avances, desarrollos y aplicaciones de la tecnología en diversos campos, como la informática, la electrónica, las telecomunicaciones y la inteligencia artificial."
+  }
   {
-    "category": "Deportes",
-    "description": "Preguntas relacionadas con diversos deportes y eventos deportivos."
-  },
+    "category": "Política",
+    "description": "Preguntas relacionadas con los sistemas políticos, las estructuras de gobierno, las ideologías políticas, los líderes y las políticas públicas."
+  }
   {
-    "category": "Arte",
-    "description": "Preguntas relacionadas con pintura, escultura, arquitectura y otras formas de expresión artística."
-  },
+    "category": "Psicología",
+    "description": "Preguntas relacionadas con el estudio de los procesos mentales, el comportamiento humano, las emociones, el desarrollo humano y los trastornos psicológicos."
+  }
   {
-    "category": "Cine",
-    "description": "Preguntas relacionadas con películas, directores, actores y otros aspectos del cine."
-  },
+    "category": "Medicina",
+    "description": "Preguntas relacionadas con el estudio, diagnóstico, tratamiento y prevención de enfermedades, así como con la salud y el bienestar general de los individuos."
+  }
   {
-    "category": "Historia",
-    "description": "Preguntas relacionadas con eventos históricos, personajes y períodos importantes."
-  },
-  {
-    "category": "Ciencia",
-    "description": "Preguntas relacionadas con diferentes ramas de la ciencia, descubrimientos y avances científicos."
+    "category": "Educación",
+    "description": "Preguntas relacionadas con los sistemas educativos, métodos de enseñanza, aprendizaje, desarrollo curricular, pedagogía y formación académica."
   }
 ]
